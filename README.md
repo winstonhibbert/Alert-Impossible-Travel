@@ -1,5 +1,7 @@
 # 🚨 Incident Response: Impossible Travel Alert 🚨
 
+<img src="https://github.com/user-attachments/assets/1486c704-9935-4ee1-8ba3-7f976b97f291" width="50%">
+
 ## 📝 **Overview**
 Organizations enforce strict security measures to prevent unauthorized access, including:
 
